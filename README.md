@@ -1,4 +1,4 @@
-<p style="text-align:center; font-size: 30px; font-weight:bold">Evaluating tackling position at catching moment</p>
+#Evaluating tackling position at catching moment
 
 # Introduction and explanation of the idea
 

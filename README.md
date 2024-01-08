@@ -165,12 +165,14 @@ $$\theta_{(T, Bc)} = \begin{equation}
 <br>
 - **The opposite angle between the potential tackler $T$ and the ball carrier $Bc$**
 
-$$\theta_{{opp}_{(T, Bc)}} = \begin{equation}
+$$
+\theta_{\text{{opp}}{(T, Bc)}} = \begin{equation}
 \begin{cases}
-  \frac{180}{\pi} \arccos \left(\frac{\overrightarrow{d_{opp_{T}}}\cdot \overrightarrow{d_{opp_{Bc}}}}{||\overrightarrow{d_{opp_{T}}}||\cdot||\overrightarrow{d_{opp_{Bc}}}||}\right) \text{ if } c = 0\\
-  0 \text{ if } c = 1
+\frac{180}{\pi} \arccos \left(\frac{\overrightarrow{d}_{\text{{opp}}_{T}} \cdot \overrightarrow{d}_{\text{{opp}}_{Bc}}}{\|\overrightarrow{d}_{\text{{opp}}_{T}}\| \cdot \|\overrightarrow{d}_{\text{{opp}}_{Bc}}\|}\right) & \text{ if } c = 0 \\
+0 & \text{ if } c = 1
 \end{cases}
-\end{equation}$$
+\end{equation}
+$$
 
 Where :
 - $\overrightarrow{d_{opp_{T}}} = (x_{Cm}^{T} - x_{Cm+1}^{T}, y_{Cm}^{T} - y_{Cm+1}^{T})$
